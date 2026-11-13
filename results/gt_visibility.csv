@@ -1,0 +1,10 @@
+split,metric,value
+val_half,gt_pedestrian_boxes,54042.0
+val_half,gt_boxes_vis_below_0.25,13835.0
+val_half,fraction_vis_below_0.25,0.256
+train_holdout,gt_pedestrian_boxes,12434.0
+train_holdout,gt_boxes_vis_below_0.25,2747.0
+train_holdout,fraction_vis_below_0.25,0.2209
+train_fit,gt_pedestrian_boxes,45821.0
+train_fit,gt_boxes_vis_below_0.25,9887.0
+train_fit,fraction_vis_below_0.25,0.2158
